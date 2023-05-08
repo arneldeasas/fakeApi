@@ -1,0 +1,14 @@
+{
+    "users":[
+        { "id": 1, "name": "John", "age": 23, "grade": "A" },
+        { "id": 2, "name": "Jane", "age": 25, "grade": "B+" },
+        { "id": 3, "name": "Mark", "age": 21, "grade": "C-" },
+        { "id": 4, "name": "Samantha", "age": 22, "grade": "A+" },
+        { "id": 5, "name": "Tom", "age": 24, "grade": "B-" },
+        { "id": 6, "name": "Emily", "age": 20, "grade": "C+" },
+        { "id": 7, "name": "David", "age": 19, "grade": "B+" },
+        { "id": 8, "name": "Grace", "age": 26, "grade": "A-" },
+        { "id": 9, "name": "Daniel", "age": 27, "grade": "B+" },
+        { "id": 10, "name": "Lucy", "age": 20, "grade": "C+" }
+    ]
+}
